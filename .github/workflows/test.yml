@@ -7,4 +7,4 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: raju-dasupally/checkout@4.0.0-alpha
+      - uses: raju-dasupally/checkout@5.0.0
